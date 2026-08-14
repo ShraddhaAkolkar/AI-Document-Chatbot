@@ -1,0 +1,14 @@
+.env
+venv/
+__pycache__/
+*.pyc
+
+data/uploads/
+data/indexes/
+faiss_store/
+temp_files/
+audio/
+
+*.wav
+*.mp3
+*.pdf

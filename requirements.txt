@@ -1,0 +1,24 @@
+# Core
+streamlit
+python-dotenv
+
+# LangChain
+langchain
+langchain-community
+langchain-text-splitters
+
+# RAG / Vector Database
+faiss-cpu
+sentence-transformers
+
+# Document Processing
+pymupdf
+
+# Audio / Voice
+sounddevice
+scipy
+faster-whisper
+gtts
+
+# Translation
+deep-translator
